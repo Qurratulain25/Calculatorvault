@@ -1,0 +1,21 @@
+
+Version v1
+
+JKS information
+
+ALias   : roseaiways
+password: roseaiways
+
+
+Ad Ids (Admobe)
+app id:
+ca-app-pub-2962826629138036~1124929233
+
+banner:
+ca-app-pub-2962826629138036/3132624404
+
+big banner:
+ca-app-pub-2962826629138036/7810236010
+
+Interstitial:
+ca-app-pub-2962826629138036/9010146355

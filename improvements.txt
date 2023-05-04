@@ -1,0 +1,4 @@
+-Make own photo and vidoes gallery android
+-importing vidoes and pictures (DO in background Service)
+-improve Contact Ui 
+
